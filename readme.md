@@ -1,3 +1,3 @@
 ERGEBNISSE UNKOMMENTIERT
 
-![](results/1_absolute.png)
+![](results/1_absolut.png)
