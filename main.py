@@ -2,6 +2,13 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib
 import math
+"""
+little python script to plot poll "megapart" done by AGJ-Freiburg
+
+run with: python: main.py
+(c) 2022 Robin Haensse
+"""
+
 
 
 """
