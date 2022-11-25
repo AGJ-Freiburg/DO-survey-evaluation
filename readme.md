@@ -1,5 +1,5 @@
-# ERGEBNISSE UNKOMMENTIERT
-## umfrag: umfrage.daten-oase.org
+# umfrage: umfrage.daten-oase.org
+##  Ergebnisse unkommentiert.
 
 ![](results/1_absolut.png)
 ![](results/2_absolut.png)
