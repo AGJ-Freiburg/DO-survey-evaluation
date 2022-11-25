@@ -1,5 +1,6 @@
 # umfrage: umfrage.daten-oase.org
 ##  Ergebnisse unkommentiert.
+# (c) 2022 AGJ-FREIBURG
 
 ![](results/1_absolut.png)
 ![](results/2_absolut.png)
