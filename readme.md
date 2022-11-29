@@ -40,3 +40,6 @@ Unfortunately, the results have not yet been commented on or discussed. Below yo
 ![](results/35_absolut.png)
 ![](results/36_absolut.png)
 ![](results/age.png)
+
+# Funding
+<img src="docs/eu.jpg" alt="eu-funding" />
