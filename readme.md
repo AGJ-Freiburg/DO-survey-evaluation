@@ -4,7 +4,7 @@
 Germany-wide survey designed to understand the digital needs of homeless people. The survey was accessible at www.umfrage.daten-oase.org. This survey was developed within the context of the EU project *"Cloud for homeless people"* of the [AGJ-Fachverband Freiburg](https://agj-freiburg.de). To guarantee it's usefulness, the survey was designed directly by AGJ-FREIBURG in collaboration with homeless people and social workers.
 
 
-Unfortunately, the results have not yet been commented on or discussed. Below you see simple descriptive drawings
+Unfortunately, the results have not yet been commented on or discussed. Below you see simple plots of the raw data
 
 
 ![](results/1_absolut.png)
